@@ -2,9 +2,6 @@
 
 <h1 align="center">Astro Blog Starter with Netlify CMS</h1>
 
-This example is based on [the basic Astro blog starter kit][starter], and
-adds [the Astro Netlify CMS integration][integration].
-
 ## Quick deploy
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)][deploy]
